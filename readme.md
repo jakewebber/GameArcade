@@ -1,4 +1,4 @@
-P4Arcade - Tic Tac Toe & Tetris
+GameArcade - Tic Tac Toe & Tetris
 Created by Zach Saucier & Jake Webber
 Last updated 4/11/2014
 Version 1.0
@@ -12,7 +12,7 @@ arcade is closed and restarted completely.
 Purpose:
 	This program was made to practice OOP, Swing, the use of stacks, and various
 other Java and software development techniques.
-
+IN A UNIX ENVIRONMENT: 
 To compile each file to be ready to run, use the following command:
 	$ make compile
 
@@ -21,6 +21,8 @@ To run this program use the following command:
 
 To remove the class files (clean this program), use the following command:
 	$ make clean
+	
+Project Optimized for Eclipse IDE for import.  
 
 
 
