@@ -28,12 +28,12 @@ Tic Tac Toe
 from doing the same. Clicking on an already taken space will not work.
 
 <b>Controls:</b>
-	CLICK: Claim a blank space as yours - places your symbol on it
-	CTRL+Z: Undo previous move
-	CTRL+Y: Redo last un-done move
-	CTRL+X: Exit game
-	CTRL+R: Restart game
-	CTRL+A: Exit to Arcade
+	CLICK: Claim a blank space as yours - places your symbol on it <br>
+	CTRL+Z: Undo previous move <br>
+	CTRL+Y: Redo last un-done move <br>
+	CTRL+X: Exit game <br>
+	CTRL+R: Restart game <br>
+	CTRL+A: Exit to Arcade <br>
 
 Press `Help -> Gameplay Instructions` or `F1` for game instructions
 
@@ -49,20 +49,20 @@ placing a Tetrimo block at the bottom will add one point as well. The game will 
 after 200 Tetrimos have been used or the board ceiling is reached
 
 <b>Controls:</b>
-	UP: Rotate Tetrimino  90 degrees
-	DOWN: Move Tetrimino  down
-	LEFT: Move Tetrimino  left
-	RIGHT: Move Tetrimino  right
-	SPACEBAR: Pause game
-	SHIFT: Moe Tetrimino down to next available space
-	CTRL+X: Exit game
-	CTRL+R: Restart game
-	CTRL+A: Exit to Arcade
-	ALT+0: Show nothing in the queue
-	ALT+1: Show 1 Tetrimino in the queue
-	ALT+2: Show 4 Tetriminos in the queue
+	UP: Rotate Tetrimino  90 degrees <br>
+	DOWN: Move Tetrimino  down <br>
+	LEFT: Move Tetrimino  left <br>
+	RIGHT: Move Tetrimino  right <br>
+	SPACEBAR: Pause game <br>
+	SHIFT: Moe Tetrimino down to next available space <br>
+	CTRL+X: Exit game <br>
+	CTRL+R: Restart game <br>
+	CTRL+A: Exit to Arcade <br>
+	ALT+0: Show nothing in the queue <br>
+	ALT+1: Show 1 Tetrimino in the queue <br>
+	ALT+2: Show 4 Tetriminos in the queue <br>
 
-Press `Help -> Gameplay Instructions` or `F1` for game instructions (pauses game)
+Press `Help -> Gameplay Instructions` or `F1` for game instructions (pauses game) <br>
 
 <b>How to activate the Konami code:</b>
 
