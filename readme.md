@@ -1,28 +1,12 @@
-Game Arcade - Tic Tac Toe & Tetris
-=====================
+# Game Arcade - Tic Tac Toe & Tetris
+
 <p>Created by Jacob Webber & Zach Saucier <br> Last updated 4/11/2014 <br> Version 1.0 <br>
-![Alt text](https://raw.githubusercontent.com/jakewebber/GameArcade/f10a51c7bb947fd981145e2a8c9b9d823b6037be/mainscreenshot.jpg "Game Arcade")
+<img src="https://raw.githubusercontent.com/jakewebber/GameArcade/f10a51c7bb947fd981145e2a8c9b9d823b6037be/mainscreenshot.jpg">
 
-Purpose:
-	This program was made to practice OOP, Swing, the use of stacks, queues, and various
-other Java and software development techniques.
+This program was made to practice OOP, Swing, the use of stacks, queues, and software development techniques.
 
-IN A UNIX ENVIRONMENT: 
-<p>To compile each file to be ready to run, use the following command: <br>
->	$ make compile	<br>
+## Tic Tac Toe
 
-To run this program use the following command: <br>
->	$ make run <br>
-
-To remove the class files (clean this program), use the following command: <br>
->	$ make clean <br>
-	
-Project Optimized for Eclipse IDE for import.  
-
-
-====================================================================================
-Tic Tac Toe
-====================================================================================
 <b>Game objective:</b>
 	Make a line of three of your symbols in a row while preventing your opponent
 from doing the same. Clicking on an already taken space will not work.
@@ -37,10 +21,8 @@ from doing the same. Clicking on an already taken space will not work.
 
 Press `Help -> Gameplay Instructions` or `F1` for game instructions
 
-====================================================================================
-Tetris
-====================================================================================
-![Alt text](https://raw.githubusercontent.com/jakewebber/GameArcade/f10a51c7bb947fd981145e2a8c9b9d823b6037be/tetrisscreenshot.jpg "Tetris")
+## Tetris
+<img src="https://raw.githubusercontent.com/jakewebber/GameArcade/f10a51c7bb947fd981145e2a8c9b9d823b6037be/tetrisscreenshot.jpg">
 
 <b>Game objective:</b>
 	Complete as many full lines as possible, preventing the blocks from reaching 
